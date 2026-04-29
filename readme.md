@@ -1,4 +1,4 @@
-# PDF Suite 📄✨
+# PDF Suite
 
 ![PDF Suite Banner](./assets/banner.png)
 
